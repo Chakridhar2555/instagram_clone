@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202852154403",
+    "project_id": "instagram-clone-4c3aa",
+    "storage_bucket": "instagram-clone-4c3aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202852154403:android:8dc636047f74b99e128596",
+        "android_client_info": {
+          "package_name": "teamapartx.com.instagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtUXvpzJoBKlRYQ5co0tvQCx0dm6nzvXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
