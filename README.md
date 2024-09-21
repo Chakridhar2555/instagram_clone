@@ -1,7 +1,4 @@
-
-
-```markdown
-# Instagram Clone
+## Instagram Clone
 
 This project is a fully functional **Instagram Clone** developed using **Flutter**, a UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase. The app mimics Instagram’s core features like user authentication, posting photos, liking posts, following users, and more. It serves as a learning project to understand how a social media app works and how Flutter can be used to build complex applications.
 
